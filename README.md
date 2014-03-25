@@ -3,12 +3,12 @@ arduino-sketches
 
 Open source Arduino sketches for Make Flappy Box
 
-#Website
+###website
 http://www.makeflappybox.co
 
-#Kickstarter
+###kickstarter
 https://www.kickstarter.com/projects/1279973067/make-flappy-box-diy-game-kit
 
-#Youtube
+###youtube
 http://www.youtube.com/watch?v=9I19S5RbtcY
 
